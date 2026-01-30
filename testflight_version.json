@@ -10,7 +10,7 @@
     "force_update": false
   },
   "QTekProValidation": {
-    "latest_version": "1.0.0",
+    "latest_version": "1.0.1",
     "message": "A new beta version is available on TestFlight. Please update to continue.",
     "force_update": false
   },
